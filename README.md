@@ -1,6 +1,6 @@
 # Makrukthai Fen Analysis
 
-This Python script is an interface to interact with the Fairy-Stockfish chess engine. It is designed to analyze a given chess position in the Makruk variant (Thai Chess) and output the analysis results into a text file.
+This Python script is an interface to interact with the Fairy-Stockfish chess engine. It is designed to analyze a given chess position in the Makrukthai (Thai Chess) and output the analysis results into a text file.
 
 ## Requirements
 
@@ -9,7 +9,7 @@ This Python script is an interface to interact with the Fairy-Stockfish chess en
 
 ## Features
 
-- Analyze a chess position from FEN (Forsyth–Edwards Notation) input
+- Analyze a makrukthai position from FEN (Forsyth–Edwards Notation) input
 - Save the analysis results to a text file
 - Customize the engine options such as the number of threads, hash size, and search depth
 
@@ -18,3 +18,7 @@ This Python script is an interface to interact with the Fairy-Stockfish chess en
 1. Clone this repository or download the `chess_engine_interface.py` script.
 2. Place the Fairy-Stockfish engine binary in the `engine` directory or update the path to the engine binary in the script.
 3. Run the script:
+
+```bash
+python makrukthai_fen_analyzer.py
+```
