@@ -39,7 +39,7 @@ rnsmksnr/8/pppppppp/8/8/PPPPPPPP/8/RNSKMSNR w - - 0 1
 Engine Output: output.txt file created successfully
 ```
 
-6. Open output.txt
+6. Open output.txt file
 
 ```bash
 FEN : rnsmksnr/8/pppppppp/8/8/PPPPPPPP/8/RNSKMSNR w - - 0 1
