@@ -5,7 +5,7 @@ This Python script is an interface to interact with the Fairy-Stockfish chess en
 ## Requirements
 
 - Python 3.9 or later
-- Fairy-Stockfish chess variant engine: [Download](https://github.com/ianfab/Fairy-Stockfish)
+- Fairy-Stockfish chess variant engine: [Download](https://github.com/ianfab/Fairy-Stockfish) store in engine directory
 
 ## Features
 
