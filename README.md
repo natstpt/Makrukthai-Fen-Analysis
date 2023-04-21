@@ -38,3 +38,22 @@ rnsmksnr/8/pppppppp/8/8/PPPPPPPP/8/RNSKMSNR w - - 0 1
 ```bash
 Engine Output: output.txt file created successfully
 ```
+
+6. Open output.txt
+
+```bash
+FEN : rnsmksnr/8/pppppppp/8/8/PPPPPPPP/8/RNSKMSNR w - - 0 1
+
+Depth		SelDepth	Multipv		Score			PV
+1			1			1			cp 2			d1c2
+1			1			2			cp 1			e3e4
+1			1			3			cp 0			e1f2
+1			1			4			cp 0			b1d2
+1			1			5			cp 0			e1d2
+1			1			6			cp 0			d1e2
+2			2			1			cp 8			d1c2 a6a5
+2			2			2			cp 3			e3e4 c6c5
+2			2			3			cp 2			e1f2 a6a5
+2			2			4			cp 0			b1d2 c6c5
+2			2			5			cp 0			e1d2 c6c5
+```
