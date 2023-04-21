@@ -22,3 +22,19 @@ This Python script is an interface to interact with the Fairy-Stockfish chess en
 ```bash
 python makrukthai_fen_analyzer.py
 ```
+
+```bash
+Please enter the FEN string of the position you want to analyze:
+```
+
+4. Input makrukthai fen you want for example startposition
+
+```bash
+rnsmksnr/8/pppppppp/8/8/PPPPPPPP/8/RNSKMSNR w - - 0 1
+```
+
+5. Wait until the engine output successfully
+
+```bash
+Engine Output: output.txt file created successfully
+```
