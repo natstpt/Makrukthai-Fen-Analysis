@@ -2,6 +2,15 @@
 
 This Python script is an interface to interact with the Fairy-Stockfish chess engine. It is designed to analyze a given fen position in the Makrukthai (Thai Chess) and output the analysis results into a text file.
 
+## Table of Contents
+
+- [Requirements](#requirements)
+- [Features](#features)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
 ## Requirements
 
 - Python 3.9 or later
