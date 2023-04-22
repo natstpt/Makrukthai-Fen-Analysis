@@ -7,7 +7,6 @@ This Python script is an interface to interact with the Fairy-Stockfish chess en
 - [Requirements](#requirements)
 - [Features](#features)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -66,10 +65,6 @@ Depth		SelDepth	Multipv		Score			PV
 2			2			4			cp 0			b1d2 c6c5
 2			2			5			cp 0			e1d2 c6c5
 ```
-
-## Contributing
-
-Contributions are welcome! If you have any ideas or suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
 
