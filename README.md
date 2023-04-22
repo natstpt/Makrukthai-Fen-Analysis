@@ -57,3 +57,18 @@ Depth		SelDepth	Multipv		Score			PV
 2			2			4			cp 0			b1d2 c6c5
 2			2			5			cp 0			e1d2 c6c5
 ```
+
+## Contributing
+
+Contributions are welcome! If you have any ideas or suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+I would like to express our gratitude to the following resources:
+
+1. **Chess Variant Engine**: This project utilizes the [Fairy Stockfish](https://github.com/ianfab/Fairy-Stockfish) engine, a powerful and highly configurable chess variant engine developed by Fabian Fichter. I would like to express our gratitude to Fabian and the entire Fairy Stockfish community for their incredible work and for making this project possible.
+2. **FairyFishGUI**: This project makes use of the [FairyFishGUI](https://github.com/fairy-stockfish/FairyFishGUI) developed by Fabian Fichter. In particular, I would like to express our gratitude for their `Engine()` class, which has been instrumental in helping us build our project. We appreciate the Fairy Stockfish team's hard work and dedication to creating a versatile and user-friendly graphical user interface for chess variant engines.
